@@ -1,0 +1,22 @@
+{
+  "name": "metavasp",
+  "version": "1.0.0",
+  "description": "Site for MetaVASP community",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaVASP/MetaVASP.git"
+  },
+  "author": "Pulkit Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetaVASP/MetaVASP/issues"
+  },
+  "homepage": "https://github.com/MetaVASP/MetaVASP#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
